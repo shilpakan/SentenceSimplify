@@ -1,1 +1,1 @@
-This project is mainly about simplifying sentecnes using deep neural network.
+This project is mainly about simplifying sentences using deep neural network.
